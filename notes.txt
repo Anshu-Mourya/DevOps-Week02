@@ -1,0 +1,9 @@
+DevOps Internship Week 2
+
+Topics Covered:
+- Git
+- GitHub
+- Branching
+- Merge
+- Rebase
+- Pull Request
